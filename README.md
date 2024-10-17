@@ -2,8 +2,8 @@
 
 This repository is our team submission for Humana Mays Healthcare Analytics competition where we had to predict the probability of Medicare insurance customer skipping Primary Centre Physician visit. <br>
 Key contributions- <br>
-Achieved 59th rank among 280+ teams in predicting patients skipping primary physician visit. <br>
-Achieved AUC score of 0.71 and disparity score of 0.98through Xgboost model trained over data of 1.5 million Medicare Insurance customers. <br>
+- Achieved 59th rank among 280+ teams in predicting patients skipping primary physician visit. <br>
+- Achieved AUC score of 0.71 and disparity score of 0.98through Xgboost model trained over data of 1.5 million Medicare Insurance customers. <br>
 
 File Description- <br>
 
